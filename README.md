@@ -9,7 +9,3 @@ Clustering and the K-means algorithm will be used to conduct the analysis. The m
 * Clustering using K-means algorithm
 * Visualizing results using 2D and 3D scatter plots
 
-## Results: 
-
-
-## Summary:
